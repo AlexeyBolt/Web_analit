@@ -1,0 +1,24 @@
+<? xml version="1.0"?>
+<CATELOG>
+<BOOK>
+<TITLE> Название книги </TITLE>
+<AUTHOR> Автор </AUTHOR>
+<PAGES> 120 </PAGES>
+<YEAR> 1200  </YEAR>
+<PRICE> 500 </PRICE>
+</BOOK>
+<BOOK>
+<TITLE> Мцыри </TITLE>
+<AUTHOR> Лермонтов М.Ю. </AUTHOR>
+<PAGES> 20 </PAGES>
+<YEAR> 2001 </YEAR>
+<PRICE> 321 </PRICE>
+</BOOK>
+<BOOK>
+<TITLE> Евгений Онегин </TITLE>
+<AUTHOR> Пушкин </AUTHOR>
+<PAGES> 186 </PAGES>
+<YEAR> 1990 </YEAR>
+<PRICE> 584 </PRICE>
+</BOOK>
+</CATELOG>

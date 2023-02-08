@@ -1,0 +1,19 @@
+<? xml version="1.0"?>
+<Base> 
+    <Req>
+        <Fullname>
+            <Surname>Иванов</Surname>
+
+            <Name>Иван</Name>
+
+            <Patronymic>Иванович</Patronymic>
+        </Fullname>
+
+        <Birthdate>01.01.1990</Birthdate>
+
+        <Birthplase>Москва</Birthplase>
+
+        <Phone>89267664848</Phone>
+
+    </Req>
+</Base>
